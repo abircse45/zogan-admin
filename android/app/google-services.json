@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "150262012855",
+    "firebase_url": "https://zogan-apk.firebaseio.com",
+    "project_id": "zogan-apk",
+    "storage_bucket": "zogan-apk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150262012855:android:8f8c996265830cb9b56632",
+        "android_client_info": {
+          "package_name": "com.example.flutterzogan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150262012855-dv52kv8mciio8up8jkfdgui1kchlbq0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMl23MNWF55SxG8cU9zI4cyXVCOKxdRKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150262012855-dv52kv8mciio8up8jkfdgui1kchlbq0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150262012855:android:bc00969b7b3f09ecb56632",
+        "android_client_info": {
+          "package_name": "com.example.zogan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150262012855-a5kf2bb56c62nisqaqjqh9esvmh5fafb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zogan",
+            "certificate_hash": "e604280536e7d0451148f672b960014699ad0c14"
+          }
+        },
+        {
+          "client_id": "150262012855-n1deed6r185b42uh051t4lsekckoiqpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zogan",
+            "certificate_hash": "62b4e374bb7527e41ce8d646e0d3c830496e345c"
+          }
+        },
+        {
+          "client_id": "150262012855-dv52kv8mciio8up8jkfdgui1kchlbq0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMl23MNWF55SxG8cU9zI4cyXVCOKxdRKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150262012855-dv52kv8mciio8up8jkfdgui1kchlbq0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150262012855:android:5a2b238c6c1608d6b56632",
+        "android_client_info": {
+          "package_name": "com.ugc.zoganadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150262012855-dv52kv8mciio8up8jkfdgui1kchlbq0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMl23MNWF55SxG8cU9zI4cyXVCOKxdRKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150262012855-dv52kv8mciio8up8jkfdgui1kchlbq0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
