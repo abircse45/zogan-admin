@@ -12,7 +12,6 @@ import 'package:flutterzogan/Hospital/hospital.dart';
 import 'package:flutterzogan/Prosashon/prosashon.dart';
 import 'package:flutterzogan/Rent/rent.dart';
 import 'package:flutterzogan/Restaurent/restaurent.dart';
-import 'package:flutterzogan/User/user.dart';
 import 'package:flutterzogan/hotel/hotel.dart';
 
 
@@ -24,14 +23,9 @@ import 'package:flutterzogan/hotel/hotel.dart';
         class _HomePageState extends State<HomePage> {
 
 
-          final FirebaseAuth _auth = FirebaseAuth.instance;
-          FirebaseUser loggedInUser;
-         // User user;
-
-
-
-
-
+//          final FirebaseAuth _auth = FirebaseAuth.instance;
+//          FirebaseUser loggedInUser;
+//
 //          Future getCurrentUser() async {
 //            try {
 //              final user = await _auth.currentUser();
@@ -43,19 +37,7 @@ import 'package:flutterzogan/hotel/hotel.dart';
 //                  context,
 //                  MaterialPageRoute(builder: (context) => HomePage()),
 //                );
-////        Firestore.instance
-////            .collection('users')
-////            .document(loggedInUser.uid)
-////            .get()
-////            .then((DocumentSnapshot ds) {
-////          setState(() {
-////            var fname = ds.data["fname"];
-////            var lname = ds.data["lname"];
-////            var phone = ds.data["phone"];
-////            var email = ds.data["email"];
-////          });
-////          // use ds as a snapshot
-////        });
+//
 //              } else {
 //                print("user is null");
 //              }
@@ -71,7 +53,7 @@ import 'package:flutterzogan/hotel/hotel.dart';
 //            super.initState();
 //            getCurrentUser();
 //          }
-
+//
 
 
           @override
